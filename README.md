@@ -35,7 +35,6 @@ This project performs **customer segmentation** using unsupervised machine learn
 
 - 📊 Exploratory Data Analysis (EDA)
 - 📈 Unsupervised Clustering using KMeans
-- 📉 Dimensionality reduction with PCA (optional)
 - 🧮 Elbow method to find optimal clusters
 - 📌 Visualizations: scatter plots, pair plots, box plots, heatmaps
 - 🎯 Customer group identification based on income and spending score
@@ -60,11 +59,11 @@ To run this project, ensure you have:
    cd customer-segmentation
 
 2. Install required packages:
-   
+
    pip install -r requirements.txt
 
-
 **Usage**
+
 **Load and Preprocess Dataset**
 1. Place Mall_Customers.csv in the /data directory.
 2. Run the Jupyter Notebook Customer_Segmentation.ipynb.
